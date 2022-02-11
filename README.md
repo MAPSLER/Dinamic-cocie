@@ -1,0 +1,2 @@
+# Dinamic-cocie
+Dinamic cocie
